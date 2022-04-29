@@ -2,8 +2,8 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
-
+<div align="center">
+<img src="https://wallpapercave.com/wp/wp4362435.jpg"width = '950px'/>
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/Edenils0nSilva/Edenils0nSilva"/> 
