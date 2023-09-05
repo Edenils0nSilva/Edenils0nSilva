@@ -4,13 +4,13 @@
 <p align="center"></p>
 
 <h2 align="center">
-  Meu Status do Github<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  TÁ PROCURANDO O QUÊ? <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Edenils0nSilva&theme=blue-green)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edenils0nSilva&show_icons=true&theme=blue-green)
 
-## Tecnologias que trabalho
+## SKIILS
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60em" height="50em"/>
