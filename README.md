@@ -1,7 +1,7 @@
 <p align="center"> </p align="center">
  <div align="center">
- <img src="https://media.discordapp.net/attachments/1024141006465159269/1117790811418021988/homer-simpson-bart-simpson-drawing-pub-quiz-thought-png-favpng-kTnsjTcNtK825hjQuQVccaF3E-removebg-preview.png"width = '300px'/>
-<p align="center"></p>
+ <!-- <img src="https://media.discordapp.net/attachments/1024141006465159269/1117790811418021988/homer-simpson-bart-simpson-drawing-pub-quiz-thought-png-favpng-kTnsjTcNtK825hjQuQVccaF3E-removebg-preview.png"width = '300px'/> -->
+<img src="homer.png" width = '400px'/>
 
 <h2 align="center">
   TÁ PROCURANDO O QUÊ? <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
