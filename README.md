@@ -56,6 +56,7 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Edenils0nSilva&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Edenils0nSilva&theme=dark&hide_border=false)<br/>
